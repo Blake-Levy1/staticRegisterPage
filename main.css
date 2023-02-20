@@ -83,7 +83,9 @@ header a:hover, form button:hover {
 footer {
   margin-top: .75rem;
   border-top: solid 1px lightgray;
+  border-bottom: solid 1px lightgray;
   padding-top: 1rem;
+  padding-bottom: 1rem;
   text-align: center;
 }
 
